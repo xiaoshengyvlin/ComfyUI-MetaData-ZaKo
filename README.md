@@ -1,2 +1,5 @@
 # Comfyui-MetaData-ZaKo
 图片元信息置换
+workflow连接最终图片你想要呈现的工作流
+image连接最终图片你想要呈现的图片
+路径可自定义你想要的保存路径
