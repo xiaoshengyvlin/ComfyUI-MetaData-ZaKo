@@ -28,7 +28,7 @@ Documentation = "https://github.com/xiaoshengyvlin/ComfyUI-MetaData-ZaKo/wiki"
 "Bug Tracker" = "https://github.com/xiaoshengyvlin/ComfyUI-MetaData-ZaKo/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "@xiaoshengyvlin"
 DisplayName = "ComfyUI-MetaData-ZaKo"
 Icon = ""
 includes = [] 
